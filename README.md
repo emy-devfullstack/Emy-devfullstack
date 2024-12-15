@@ -23,6 +23,6 @@ Embora ainda esteja no início dessa jornada, estou entusiasmada com as possibil
 
 ## Contato
 ---
-- [LinkedIn](https://www.linkedin.com/in/emily-garcia-2969b5252/))
+- LinkedIn: (https://www.linkedin.com/in/emily-garcia-2969b5252/)
 
 - Email: kristin.fullstackdev@gmail.com
