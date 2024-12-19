@@ -12,9 +12,10 @@
 ## 🧠 Sobre Mim  
 </div>
 
-Sou uma *desenvolvedora em formação*, apaixonada por criar aplicações e integrar sistemas para resolver problemas do mundo real. Minha jornada na tecnologia começou com curiosidade e vontade de aprender, e desde então, venho explorando diversas ferramentas, linguagens e frameworks.  
+Sou uma *desenvolvedora em formação*, apaixonada por criar aplicações e integrar sistemas para resolver problemas do mundo real. Minha jornada na tecnologia começou com uma curiosidade intensa e o desejo constante de aprender sobre as novidades da área. O primeiro contato com a programação surgiu por meio de uma demanda de trabalho relacionada a banco de dados. Desde então, venho explorando diferentes ferramentas, linguagens e frameworks, além de aprimorar continuamente minhas técnicas de desenvolvimento.
+Atualmente, na empresa onde trabalho, sou responsável pela gestão de banco de dados, análise de dados e desenvolvimento backend, desempenhando um papel essencial em projetos e processos da organização.
 
-Atualmente, estou focada em me tornar uma *Desenvolvedora Fullstack*, buscando dominar tanto o front-end quanto o back-end enquanto exploro oportunidades para crescer e inovar.  
+Nesse momento, estou focada em me tornar uma *Desenvolvedora Fullstack*, buscando dominar tanto o front-end quanto o back-end enquanto exploro oportunidades para crescer e inovar.  
 
 <h1></h1>
 
