@@ -59,7 +59,7 @@ Tenho grande interesse em:
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,java,cs,docker,git,azure,nodejs,angular,spring,figma,dotnet,jquery,mysql," />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,java,cs,docker,git,azure,nodejs,angular,spring,figma,dotnet,jquery,mysql" />
 </p>
 
 <h1></h1>
