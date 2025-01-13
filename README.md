@@ -71,8 +71,6 @@ Tenho grande interesse em:
 
 <p align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=emy-devfullstack&show_icons=true&count_private=true&title_color=4caf50&text_color=ffffff&icon_color=4caf50&bg_color=0f172a&hide_border=true" alt="Estatísticas do GitHub" />
-  <img width="440px" src="https://github-readme-streak-stats.herokuapp.com/?user=emy-devfullstack&stroke=ffffff&background=0f172a&ring=4caf50&fire=4caf50&currStreakNum=ffffff&currStreakLabel=4caf50&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Streak Stats" />
-  <br/>
   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=emy-devfullstack&title_color=4caf50&text_color=ffffff&icon_color=4caf50&bg_color=0f172a&hide_border=true&layout=compact" alt="Linguagens Mais Usadas" />
 </p>  
 
